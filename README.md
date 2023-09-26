@@ -31,7 +31,7 @@ Libraries of field elements are also provided.
 
 [20~21 Season Tournament – Small Robot Pre-season Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gc30-7bjYs9RC1faEY0XKZtpyOQbDe3LGZlwCMh-n_IH3Q)
 
-[20~21 Season Tournament – Small Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcO8-Er1BeHXMcvLZDfGBkGaaUGfQFMkWfWV_a4S2tr6bC)
+[20~21 Season Tournament – Small Robot Final Version](https://sjtu.feishu.cn/file/ORrYb1aJRoIHCyxZINTcf6hTn3f?from=from_copylink)
 
 **2019 - 2020 Tower Takeover**
 
