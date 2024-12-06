@@ -1,23 +1,25 @@
 # SJTU VEX Open Source
 
-Here are the links of open-source VEX-U robot SolidWorks drawings and design libraries for everyone. We use GrabCAD WorkBench to share.
+Here are the links of open-source VEX-U robot SOIDWORKS drawings and design libraries for everyone. We use sic cloud storage to share. 
 
 ## Design Libraries
 
-Design libraries include `Sticker`, `VEX EDR Part`, `VEX PRO Part`, `Pneumatic`, `Standard Part`, and `Electronics`. 
+Design libraries include `Sticker`, `V5RC Part`, `VEX PRO Part`, `Pneumatic`, and `Standard Part`. 
 
-- SolidWorks 2020: [SOLIDWORKS Standard Parts 20.1.0](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gc-Eq5mGXYAVMzAtX9nEdSB9wxOkqI0gTW58KJLIGt45r9)
-- SolidWorks 2019: [SOLIDWORKS Standard Parts 19.0.1](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gc7MUIinEN9TK__5adqSRQUH8osmjfsBjxcvLGYFyJycMJ)
+- SOIDWORKS Design Library 2020: [SW 2020-1.1.241205](https://pan.si.sjtu.edu.cn/d/98c3dea633664d35929f/)
+- SOIDWORKS Design Library 2019: [SW 2019-1.1.251205](https://pan.si.sjtu.edu.cn/d/531cc667cf0f4365be35/)
 
 Libraries of field elements are also provided.
 
-- 2022 - 2023 Spin Up: [Field Element 23.0.1](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcsRBiz7MzQamUt0SoK3Z85jPuCuusW8S3gkwpzVAZxwET)
-- 2021 - 2022 Tipping Point: [Field Element 22.0.1](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gc-H9H0syZ4rLL2TuUYFQ3VCB_D2VppRzgJtsoPDpsEvhh)
-- 2020 - 2021 Change Up: [Field Element 21.0.1](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcNY3ydJNL_FNa64A0JpWQrImZpRHDRbnNsC8CFCL7-p2J)
+- 2024 - 2025 High Stakes: [High Stakes-1.1.241205](https://pan.si.sjtu.edu.cn/d/bde411accd8b4a9a8de0/)
+- 2023 - 2024 Over Under: [Over Under-1.1.241205](https://pan.si.sjtu.edu.cn/d/7becd6c6ea3943998da7/)
+- 2022 - 2023 Spin Up: [Spin Up-1.1.241205](https://pan.si.sjtu.edu.cn/d/ff4737ee59594a62945d/)
+- 2021 - 2022 Tipping Point: [Tipping Point-1.1.241205](https://pan.si.sjtu.edu.cn/d/e9e4b126ff5e4c6bafde/)
+- 2020 - 2021 Change Up: [Change Up-1.1.241205](https://pan.si.sjtu.edu.cn/d/a309595ea87148fb9a24/)
+
+>  Note: SOIDWORKS Design Library 2019 is no longer update, and all field file is SOIDWORKS 2020 version file.
 
 ## Drawings
-
-*Note: CAD files include both STEP files and SLDASM files (SolidWorks assembly files).*
 
 **2022-2023 Spin up**
 
@@ -41,8 +43,9 @@ Libraries of field elements are also provided.
 
 [19~20 Season Tournament – Small Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcC1bdOr8eL-6FSckf4BrAvDFVlKYsUHQYlHl2TYhOFKKH)
 
-## Changelog
+## Change Log
 
+- 2024-12-6: Update design library URL and field element URL
 - 2022-5-17: Update SW Standard Parts 20.0.1 to 20.1.0; add 22-23 Field Element; add 21-22 robot drawings.
 - 2021-7-20: Add 21-22 Field Element.
 
