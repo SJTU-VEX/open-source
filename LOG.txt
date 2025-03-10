@@ -1,0 +1,300 @@
+/*-------------------------------------1.2.250309-------------------------------------*/
+Revision: 21
+Author: chifeng
+Date: 2025年3月9日 20:58:30
+Message:
+add: 3.0 manual, robot layout, and mobile goal light config
+----
+Modified : /Field/High Stakes/25-0-HS Layout.SLDBLK
+Modified : /Field/High Stakes/25-0-Mobile Goal-SJTUVEX.SLDPRT
+Added : /Field/High Stakes/25-0-VEXU Layout.SLDBLK
+Added : /Field/High Stakes/High-Stakes-3.0.pdf
+
+Revision: 20
+Author: chifeng
+Date: 2025年3月9日 20:46:08
+Message:
+add: gps sensor
+----
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Sensors/1-GPS Sensor.SLDPRT
+
+Revision: 19
+Author: chifeng
+Date: 2025年3月9日 20:28:16
+Message:
+add: new parts bearings, capped shaft, standoff Retainer
+----
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Ball Bearing #8 Insert-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Ball Bearing Block-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Ball Bearing Square Insert-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Ball Bearing-SJTUVEX.SLDASM
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-HS Bushing-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-High Strength Pillow Block Bearing-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Low Profile Bearing Flat-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Bearings/1-Shaft Collar Retainer with Bearing Flat-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Shafts/1-Capped Shaft-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Shafts/1-Low Profile HS Clamping Shaft Collar-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Stand-Offs & Rubber Links/1-1Post Standoff Retainer with Bearing Flat-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Stand-Offs & Rubber Links/1-1Post Standoff Retainer-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Hardware/Stand-Offs & Rubber Links/1-4Post Standoff Retainer-SJTUVEX.SLDPRT
+
+Revision: 18
+Author: chifeng
+Date: 2025年3月9日 20:26:50
+Message:
+add: 2.25 and 2.5 config of 4-Round Head Hexagon Screws-SJTUVEX.SLDPRT
+----
+Modified : /Standard Parts/SW 2020/Standard Parts/Screws/4-Round Head Hexagon Screws-SJTUVEX.SLDPRT
+
+Revision: 17
+Author: chifeng
+Date: 2024年12月6日 10:36:42
+Message:
+delete: repeat files
+----
+Deleted : /Field/Spin Up/SW 2020
+Deleted : /Field/Tipping Point/SW 2020
+
+Revision: 16
+Author: chifeng
+Date: 2024年12月6日 10:35:37
+Message:
+update: files directory
+----
+Added : /Field/Spin Up/23-0-Disc Sideview-SJTUVEX.SLDBLK
+Added : /Field/Spin Up/23-0-Disc Topview-SJTUVEX.SLDBLK
+Added : /Field/Spin Up/23-0-Disc-SJTUVEX.SLDPRT
+Added : /Field/Spin Up/23-0-Field-SJTUVEX.SLDASM
+Added : /Field/Spin Up/23-0-High Goal 45degree-SJTUVEX.SLDBLK
+Added : /Field/Spin Up/23-0-High Goal Blue-SJTUVEX.SLDPRT
+Added : /Field/Spin Up/23-0-High Goal Red-SJTUVEX.SLDPRT
+Added : /Field/Spin Up/23-0-Low Goal Blue-SJTUVEX.SLDPRT
+Added : /Field/Spin Up/23-0-Low Goal CrossSecview-SJTUVEX.SLDBLK
+Added : /Field/Spin Up/23-0-Low Goal Red-SJTUVEX.SLDPRT
+Added : /Field/Spin Up/23-0-Roller-SJTUVEX.SLDASM
+Added : /Field/Spin Up/pictures
+Added : /Field/Spin Up/pictures/23-0-Field-SJTUVEX.png
+Added : /Field/Spin Up/pictures/23-0-Field-Topview-Bright-SJTUVEX.png
+Added : /Field/Spin Up/pictures/23-0-Field-Topview-Dark-SJTUVEX.png
+Added : /Field/Spin Up/pictures/23-0-Field-Topview-Transparent-SJTUVEX.png
+Added : /Field/Tipping Point/22-0-Alliance Goal-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Alliance Goal-Topview-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Blue Goal-SJTUVEX.SLDPRT
+Added : /Field/Tipping Point/22-0-Blue Platform-SJTUVEX.SLDASM
+Added : /Field/Tipping Point/22-0-Field-SJTUVEX.SLDASM
+Added : /Field/Tipping Point/22-0-Neutral Short Goal-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Neutral Short Goal-SJTUVEX.SLDPRT
+Added : /Field/Tipping Point/22-0-Neutral Tall Goal-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Neutral Tall Goal-SJTUVEX.SLDPRT
+Added : /Field/Tipping Point/22-0-Platform-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Red Goal-SJTUVEX.SLDPRT
+Added : /Field/Tipping Point/22-0-Red Platform-SJTUVEX.SLDASM
+Added : /Field/Tipping Point/22-0-Ring 15 degree-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Ring 30 degree-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Ring 45 degree-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Ring-SJTUVEX-Topview.SLDBLK
+Added : /Field/Tipping Point/22-0-Ring-SJTUVEX.SLDBLK
+Added : /Field/Tipping Point/22-0-Ring-SJTUVEX.SLDPRT
+Added : /Field/Tipping Point/pictures
+Added : /Field/Tipping Point/pictures/22-0-Field Topview-Bright.JPG
+Added : /Field/Tipping Point/pictures/22-0-Field Topview-Dark.JPG
+Added : /Field/Tipping Point/pictures/22-0-Field-Bright.JPG
+Added : /Field/Tipping Point/pictures/22-0-Field-Dark.JPG
+
+Revision: 15
+Author: chifeng
+Date: 2024年12月6日 9:10:34
+Message:
+update: LOG.txt directory
+----
+Added : /LOG.txt
+Deleted : /Standard Parts/SW 2020/LOG.txt
+
+Revision: 14
+Author: chifeng
+Date: 2024年12月6日 9:09:04
+Message:
+update: log and delete GrabCAD Workbench.pdf
+----
+Deleted : /Standard Parts/SW 2019/GrabCAD Workbench.pdf
+Modified : /Standard Parts/SW 2020/LOG.txt
+
+
+/*-------------------------------------1.1.241205-------------------------------------*/
+Revision: 13
+Author: chifeng
+Date: 2024年12月5日 21:24:16
+Message:
+update: vex library
+----
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/1-VRC License Plate-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/1-HS Shaft Adapter #8 Round Bore-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/1-Metal Gear Inserts-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/6P Sprocket & Chain
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/6P Sprocket & Chain/1-6P Sprocket-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-24T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-36T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-48T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-60T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-72T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/High Strength Gears/1-84T High Strength Gear v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Gears, Sprocket & Chain/VEX链轮参数计算表.xlsx
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Sensors/1-V5 Rotation Sensor-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Robot Battery-side3-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Smart Motor (5.5W)-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Smart Motor(5.5W)-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Smart Motor-4T Gear-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Smart Motor-8T Gear-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/1-V5 Smart Motor-side3-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/6-V5 Smart Motor Adapter-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/6-V5 Smart Motor Cap 3600rpm-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/V5 Control System/6-V5 Smart Motor(5.5W) Cap-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Mecanum Wheels/1-2'' Mecanum Wheel v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Mecanum Wheels/1-2'' Mecanum Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-2.75'' Omni-Directional Anti-Static Wheel (Double Roller)-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-2.75'' Omni-Directional Wheel (Double Roller) Hollow-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-2” Omni-Directional Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-3.25'' Omni-Directional Anti-Static Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-4'' Omni-Directional Anti-Static Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-Rubber Roller-SJTUVEX.SLDBLK
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Omni Directional Wheel/1-Rubber Roller-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Rubber Wheel&Colison Wheel/1-2.75‘’ Anti-Static Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Rubber Wheel&Colison Wheel/1-3.25 Anti-Static Wheel-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/VEX Library-SJTUVEX/Wheels/Rubber Wheel&Colison Wheel/1-4'' Anti-Static Wheel-SJTUVEX.SLDPRT
+
+Revision: 12
+Author: chifeng
+Date: 2024年12月5日 19:12:39
+Message:
+add: Standoffs
+----
+Added : /Standard Parts/SW 2020/Standard Parts/Standoffs
+Added : /Standard Parts/SW 2020/Standard Parts/Standoffs/3-304 Round Standoff-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Standard Parts/Standoffs/3-Aluminum Round Standoff-SJTUVEX.SLDPRT
+
+Revision: 11
+Author: chifeng
+Date: 2024年12月5日 18:30:29
+Message:
+delete: GrabCAD Workbench.pdf
+----
+Deleted : /Standard Parts/SW 2020/GrabCAD Workbench.pdf
+
+Revision: 10
+Author: chifeng
+Date: 2024年12月5日 18:29:21
+Message:
+add: 8-Schrader Valve-SJTUVEX.SLDPRT
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Fittings/VEX EDR/8-Schrader Valve-SJTUVEX.SLDPRT
+
+Revision: 9
+Author: chifeng
+Date: 2024年12月5日 18:28:32
+Message:
+add: 8v-Air Tank 200mL-SJTUVEX.SLDPRT
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Air Tank/8v-Air Tank 200mL-SJTUVEX.SLDPRT
+
+Revision: 8
+Author: chifeng
+Date: 2024年12月5日 18:27:29
+Message:
+add: cj2 piston sz and tz
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_SZ
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_SZ/8s-CJ2D_SZ Piston Rod-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_SZ/8s-CJ2D_SZ Tube-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_SZ/8s-CJ2D_SZ-SJTUVEX.SLDASM
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_TZ
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_TZ/8s-CJ2D_TZ Piston Rod-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_TZ/8s-CJ2D_TZ Tube-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_TZ/8s-CJ2D_TZ-SJTUVEX.SLDASM
+
+Revision: 7
+Author: chifeng
+Date: 2024年12月5日 18:26:58
+Message:
+add: piston manual
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/AIRTAC-MA.PDF
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/AIRTAC-MF.PDF
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/AIRTAC-MI.PDF
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/AIRTAC-SDA.PDF
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC-CQ2.pdf
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC-CUJ.pdf
+
+Revision: 6
+Author: chifeng
+Date: 2024年12月5日 18:25:23
+Message:
+add: 8v_Cylinder Connector-SJTUVEX.SLDPRT and 8v_Cylinder Intersection Connector-SJTUVEX.SLDPRT
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/VEX EDR/8v_Cylinder Connector-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/VEX EDR/8v_Cylinder Intersection Connector-SJTUVEX.SLDPRT
+
+Revision: 5
+Author: chifeng
+Date: 2024年12月5日 18:24:57
+Message:
+add: 8v-Pneumatic Cylinder-SJTUVEX.SLDASM
+----
+Added : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/VEX EDR/8v-Pneumatic Cylinder-SJTUVEX.SLDASM
+
+Revision: 4
+Author: chifeng
+Date: 2024年12月5日 18:22:26
+Message:
+update: cj2 piston
+----
+Modified : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_Z/8s-CJ2D_Z Piston Rod-SJTUVEX.SLDPRT
+Modified : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_Z/8s-CJ2D_Z Tube-SJTUVEX.SLDPRT
+Modified : /Standard Parts/SW 2020/Pneumatics/Air Cylinder/SMC_CJ2D_Z/8s-CJ2D_Z-SJTUVEX.SLDASM
+
+Revision: 3
+Author: chifeng
+Date: 2024年12月5日 18:11:33
+Message:
+update: Hubs
+----
+Added : /Standard Parts/SW 2020/FRC Library/Hubs
+Added : /Standard Parts/SW 2020/FRC Library/Hubs/2-Hex Bore Aluminum VersaHub-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/FRC Library/Hubs/2-Hex Bore Plastic VersaHub v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/FRC Library/Hubs/2-Hex Bore Plastic VersaHub-SJTUVEX.SLDPRT
+
+Revision: 2
+Author: chifeng
+Date: 2024年12月5日 18:02:52
+Message:
+add: Adapters/2-VersaHex Adapters-SJTUVEX.SLDPRT and Adapters/2-VersaHex Adapters v2-SJTUVEX.SLDPRT
+----
+Added : /Standard Parts/SW 2020/FRC Library/Adapters
+Added : /Standard Parts/SW 2020/FRC Library/Adapters/2-VersaHex Adapters v2-SJTUVEX.SLDPRT
+Added : /Standard Parts/SW 2020/FRC Library/Adapters/2-VersaHex Adapters-SJTUVEX.SLDPRT
+
+/*-------------------------------------1.0.241024-------------------------------------*/
+add superthick washers,change color
+update metric K shape hexagon nut with M3 to M10 configuration.
+bearing and bushing with all the configuration in FRC
+update pop rivet with M3 to M5 and M5*13 countersink rivet.
+FRC collar update
+reverse the Mate References to the correct direction.(5-Slot Expension Nuts-SJTUVEX.SLDPRT)
+update light configuration of vex omni wheel
+fix bug of (structure) bar and the vex omni wheel
+add the extra light version of v5 brain
+add M6、M8 configurations(3-Round Head Hexagon Screws-SJTUVEX.SLDPRT)
+Add the ultra-light configurations to V5 motor.
+fix bug of v5 motor
+add M4*55 configuration(3-Round Head Hexagon Screws-SJTUVEX.SLDPRT)
+Add F6904zz configuration.
+Add the radial bearings of types from VEX official website and parameters from SKF official website.
+Add M10、M12configurations，add some 75/80/85/90/95/100configurations，add #8 & 1/4 for ANSI
+update the weight of the v5 motor
+update airtac f mx y fitting
+update screws， including ANSI cap head shoulder， GB hex head, and ANSI cap head
+debug K-shape nuts and add #6, #10 configuration
+add #6 and #10 configuration(4-Nylon Hexagon Nuts-SJTUVEX.SLDPRT)
+add eye screw
+Add new configurations.(3-Aluminum Pop Rivet.SLDPRT, 3-Round Head Hexagon Screws-SJTUVEX.SLDPRT)
+freeze features
+add “pneumatics design library”which is most powerful design library ever.
