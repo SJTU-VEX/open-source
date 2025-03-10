@@ -6,12 +6,12 @@ Here are the links of open-source VEX-U robot SOIDWORKS drawings and design libr
 
 Design libraries include `Sticker`, `V5RC Part`, `VEX PRO Part`, `Pneumatic`, and `Standard Part`. 
 
-- SOIDWORKS Design Library 2020: [SW 2020-1.1.241205](https://pan.si.sjtu.edu.cn/d/98c3dea633664d35929f/)
+- SOIDWORKS Design Library 2020: [SW 2020-1.2.250309](https://pan.si.sjtu.edu.cn/d/14def839191b43c69a62/)
 - SOIDWORKS Design Library 2019: [SW 2019-1.1.251205](https://pan.si.sjtu.edu.cn/d/531cc667cf0f4365be35/)
 
 Libraries of field elements are also provided.
 
-- 2024 - 2025 High Stakes: [High Stakes-1.1.241205](https://pan.si.sjtu.edu.cn/d/bde411accd8b4a9a8de0/)
+- 2024 - 2025 High Stakes: [High Stakes-1.2.250309](https://pan.si.sjtu.edu.cn/d/cf28497a33734790918b/)
 - 2023 - 2024 Over Under: [Over Under-1.1.241205](https://pan.si.sjtu.edu.cn/d/7becd6c6ea3943998da7/)
 - 2022 - 2023 Spin Up: [Spin Up-1.1.241205](https://pan.si.sjtu.edu.cn/d/ff4737ee59594a62945d/)
 - 2021 - 2022 Tipping Point: [Tipping Point-1.1.241205](https://pan.si.sjtu.edu.cn/d/e9e4b126ff5e4c6bafde/)
@@ -45,6 +45,7 @@ Libraries of field elements are also provided.
 
 ## Change Log
 
+- 2025-3-9: Update SW2020 design library and high stakes field
 - 2024-12-6: Update design library URL and field element URL
 - 2022-5-17: Update SW Standard Parts 20.0.1 to 20.1.0; add 22-23 Field Element; add 21-22 robot drawings.
 - 2021-7-20: Add 21-22 Field Element.
