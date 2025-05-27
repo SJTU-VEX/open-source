@@ -6,45 +6,56 @@ Here are the links of open-source VEX-U robot SOIDWORKS drawings and design libr
 
 Design libraries include `Sticker`, `V5RC Part`, `VEX PRO Part`, `Pneumatic`, and `Standard Part`. 
 
-- SOIDWORKS Design Library 2020: [SW 2020-1.2.250309](https://pan.si.sjtu.edu.cn/d/14def839191b43c69a62/)
-- SOIDWORKS Design Library 2019: [SW 2019-1.1.251205](https://pan.si.sjtu.edu.cn/d/531cc667cf0f4365be35/)
+- SOIDWORKS Design Library 2020: [SW 2020-1.3.250516](https://pan.sjtu.edu.cn/web/share/8735759b3a87825e41e5209edbb5ecaf)
+- SOIDWORKS Design Library 2019: [SW 2019-1.3.250516](https://pan.sjtu.edu.cn/web/share/280fe80080a0c7db37ce2b91d06d72f9)
 
 Libraries of field elements are also provided.
 
 - 2025 - 2026 Push Back: [Push Back-1.3.250516](https://pan.sjtu.edu.cn/web/share/01ef9e819d0688e6ae3d0ca7a04cd4bc)
-- 2024 - 2025 High Stakes: [High Stakes-1.2.250309](https://pan.si.sjtu.edu.cn/d/cf28497a33734790918b/)
-- 2023 - 2024 Over Under: [Over Under-1.1.241205](https://pan.si.sjtu.edu.cn/d/7becd6c6ea3943998da7/)
-- 2022 - 2023 Spin Up: [Spin Up-1.1.241205](https://pan.si.sjtu.edu.cn/d/ff4737ee59594a62945d/)
-- 2021 - 2022 Tipping Point: [Tipping Point-1.1.241205](https://pan.si.sjtu.edu.cn/d/e9e4b126ff5e4c6bafde/)
-- 2020 - 2021 Change Up: [Change Up-1.1.241205](https://pan.si.sjtu.edu.cn/d/a309595ea87148fb9a24/)
+- 2024 - 2025 High Stakes: [High Stakes-1.3.250516](https://pan.sjtu.edu.cn/web/share/843aee1af3066c1a2b173588de05b7cb)
+- 2023 - 2024 Over Under: [Over Under-1.3.250516](https://pan.sjtu.edu.cn/web/share/0190472f3c72e346b74e94839e8d7130)
+- 2022 - 2023 Spin Up: [Spin Up-1.3.250516](https://pan.sjtu.edu.cn/web/share/7d5348e19bac8b5f44084336983e2457)
+- 2021 - 2022 Tipping Point: [Tipping Point-1.3.250516](https://pan.sjtu.edu.cn/web/share/c481338617d222dc66146cda087b46f6)
+- 2020 - 2021 Change Up: [Change Up-1.3.250516](https://pan.sjtu.edu.cn/web/share/8c83d16587d26fcf25b7081ac700a585)
 
 >  Note: SOIDWORKS Design Library 2019 is no longer update, and all field file is SOIDWORKS 2020 version file.
 
 ## Drawings
 
-**2022-2023 Spin up**
+**2023 - 2024 Over Under**
 
-[22~23 Season Tournament – Small Robot Final Version(feishu)](https://sjtu.feishu.cn/drive/folder/LdoNfjXAJlrlQcds7aFczXysnmf?from=from_copylink)
+[23~24 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/452ccfaf3bf0c9c6d7016ba45e8d39d6)
+
+[23~24 Season Tournament – Big Robot Final Version](https://pan.sjtu.edu.cn/web/share/30179b24d89e0c233e0327eaf965861b)
+
+[23~24 Season Skill – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/7b5b62e2a29799f6cc0c9eb4288328cc)
+
+[23~24 Season U – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/3497e56adc0e808567b2ac114a3edd81)
+
+**2022 - 2023 Spin up**
+
+[22~23 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/89470f74ba24cfa3e7f5187b3d84d761)
 
 **2021 - 2022 Tipping Point**
 
-[21~22 Season Tournament – Small Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcqssPdsE-nPUwYsbXnBnsuiamGp0xN6xU6rgjkge_TkR2)
+[21~22 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/89f3e68525c7744db91942362560cd85)
 
 **2020 - 2021 Change Up**
 
-[20~21 Season Tournament – Small Robot Pre-season Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gc30-7bjYs9RC1faEY0XKZtpyOQbDe3LGZlwCMh-n_IH3Q)
+[20~21 Season Tournament – Small Robot Pre-season Version](https://pan.sjtu.edu.cn/web/share/54b9f676f046fb925af402fdd8cb0479)
 
-[20~21 Season Tournament – Small Robot Final Version](https://sjtu.feishu.cn/file/ORrYb1aJRoIHCyxZINTcf6hTn3f?from=from_copylink)
+[20~21 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/84657daf768edc61c990278e5735b6ed)
 
 **2019 - 2020 Tower Takeover**
 
-[19~20 Season Skill Challenge – Small Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcLWhBQkzmysJvgZgBWdmpKsxkyqbcUBtv9p0Ph7l4Lj5f)
+[19~20 Season Skill Challenge – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/37a3554e35a41549701e42a3ec4b8172)
 
-[19~20 Season Skill Challenge – Big Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcG4_HWnQX8fFMLra8xeY82leIUXTGdKMM-jcE3sPXFICq)
+[19~20 Season Skill Challenge – Big Robot Final Version](https://pan.sjtu.edu.cn/web/share/9c67f9a9b67c990e48a1990a7d566519)
 
-[19~20 Season Tournament – Small Robot Final Version](https://workbench.grabcad.com/workbench/projects/gceva5GZSMU_9SF8j0-CBt04Aw-A3PWQthwhinUztTq9u8#/space/gcC1bdOr8eL-6FSckf4BrAvDFVlKYsUHQYlHl2TYhOFKKH)
+[19~20 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/6b12508cf8b7774bfef96e0c2220ccb1)
 
 ## Change Log
+- 2025-5-27: Update all download URL, and over under robot step files
 - 2025-5-16: Update 2025-2026 Push Back Field
 - 2025-3-9: Update SW2020 design library and high stakes field
 - 2024-12-6: Update design library URL and field element URL
