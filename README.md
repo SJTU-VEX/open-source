@@ -6,17 +6,17 @@ Here are the links of open-source VEX-U robot SOIDWORKS drawings and design libr
 
 Design libraries include `Sticker`, `V5RC Part`, `VEX PRO Part`, `Pneumatic`, and `Standard Part`. 
 
-- SOIDWORKS Design Library 2020: [SW 2020-1.3.250516](https://pan.sjtu.edu.cn/web/share/8735759b3a87825e41e5209edbb5ecaf)
-- SOIDWORKS Design Library 2019: [SW 2019-1.3.250516](https://pan.sjtu.edu.cn/web/share/280fe80080a0c7db37ce2b91d06d72f9)
+- SOIDWORKS Design Library 2020: [SW 2020-1.4.250731](https://pan.sjtu.edu.cn/web/share/8735759b3a87825e41e5209edbb5ecaf)
+- SOIDWORKS Design Library 2019: [SW 2019-1.4.250731](https://pan.sjtu.edu.cn/web/share/280fe80080a0c7db37ce2b91d06d72f9)
 
 Libraries of field elements are also provided.
 
-- 2025 - 2026 Push Back: [Push Back-1.3.250516](https://pan.sjtu.edu.cn/web/share/01ef9e819d0688e6ae3d0ca7a04cd4bc)
-- 2024 - 2025 High Stakes: [High Stakes-1.3.250516](https://pan.sjtu.edu.cn/web/share/843aee1af3066c1a2b173588de05b7cb)
-- 2023 - 2024 Over Under: [Over Under-1.3.250516](https://pan.sjtu.edu.cn/web/share/0190472f3c72e346b74e94839e8d7130)
-- 2022 - 2023 Spin Up: [Spin Up-1.3.250516](https://pan.sjtu.edu.cn/web/share/7d5348e19bac8b5f44084336983e2457)
-- 2021 - 2022 Tipping Point: [Tipping Point-1.3.250516](https://pan.sjtu.edu.cn/web/share/c481338617d222dc66146cda087b46f6)
-- 2020 - 2021 Change Up: [Change Up-1.3.250516](https://pan.sjtu.edu.cn/web/share/8c83d16587d26fcf25b7081ac700a585)
+- 2025 - 2026 Push Back: [Push Back-1.4.250731](https://pan.sjtu.edu.cn/web/share/01ef9e819d0688e6ae3d0ca7a04cd4bc)
+- 2024 - 2025 High Stakes: [High Stakes-1.4.250731](https://pan.sjtu.edu.cn/web/share/843aee1af3066c1a2b173588de05b7cb)
+- 2023 - 2024 Over Under: [Over Under-1.4.250731](https://pan.sjtu.edu.cn/web/share/0190472f3c72e346b74e94839e8d7130)
+- 2022 - 2023 Spin Up: [Spin Up-1.4.250731](https://pan.sjtu.edu.cn/web/share/7d5348e19bac8b5f44084336983e2457)
+- 2021 - 2022 Tipping Point: [Tipping Point-1.4.250731](https://pan.sjtu.edu.cn/web/share/c481338617d222dc66146cda087b46f6)
+- 2020 - 2021 Change Up: [Change Up-1.4.250731](https://pan.sjtu.edu.cn/web/share/8c83d16587d26fcf25b7081ac700a585)
 
 >  Note: SOIDWORKS Design Library 2019 is no longer update, and all field file is SOIDWORKS 2020 version file.
 
@@ -54,11 +54,15 @@ Libraries of field elements are also provided.
 
 [19~20 Season Tournament – Small Robot Final Version](https://pan.sjtu.edu.cn/web/share/6b12508cf8b7774bfef96e0c2220ccb1)
 
+## Help Document
+[Document](https://pan.sjtu.edu.cn/web/share/458f15ddc69c95518f92b560c8fc750d)
+
 ## Change Log
-- 2025-5-27: Update all download URL, and over under robot step files
-- 2025-5-16: Update 2025-2026 Push Back Field
-- 2025-3-9: Update SW2020 design library and high stakes field
-- 2024-12-6: Update design library URL and field element URL
+- 2025-7-31: Update configuration of HS Gears, 6P Sprocket, and HS Sprocket with all kinds of inserts(#8 round bore, 1/8 square insert, and HS shaft inserts); add some field element blocks; add ultra-low profile socket screws; add 4*6*n configuration of “3-Nylon Spacers”; add without screws configuration of HS clamping shaft collar.
+- 2025-5-27: Update all download URL, and over under robot step files.
+- 2025-5-16: Update 2025-2026 Push Back Field.
+- 2025-3-9: Update SW2020 design library and high stakes field.
+- 2024-12-6: Update design library URL and field element URL.
 - 2022-5-17: Update SW Standard Parts 20.0.1 to 20.1.0; add 22-23 Field Element; add 21-22 robot drawings.
 - 2021-7-20: Add 21-22 Field Element.
 
