@@ -58,7 +58,7 @@ Libraries of field elements are also provided.
 [Document](https://pan.sjtu.edu.cn/web/share/458f15ddc69c95518f92b560c8fc750d)
 
 ## Change Log
-- 2025-7-31: Update configuration of HS Gears, 6P Sprocket, and HS Sprocket with all kinds of inserts(#8 round bore, 1/8 square insert, and HS shaft inserts); add some field element blocks; add ultra-low profile socket screws; add 4*6*n configuration of “3-Nylon Spacers”; add without screws configuration of HS clamping shaft collar.
+- 2025-7-31: Update configuration of HS Gears, 6P Sprocket, and HS Sprocket with all kinds of inserts(#8 round bore, 1/8 square insert, and HS shaft inserts); add some field element blocks; add ultra-low profile socket screws; add 4x6xn configuration of “3-Nylon Spacers”; add without screws configuration of HS clamping shaft collar.
 - 2025-5-27: Update all download URL, and over under robot step files.
 - 2025-5-16: Update 2025-2026 Push Back Field.
 - 2025-3-9: Update SW2020 design library and high stakes field.
