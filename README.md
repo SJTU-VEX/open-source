@@ -6,11 +6,12 @@ Here are the links of open-source VEX-U robot SOIDWORKS drawings and design libr
 
 Design libraries include `Sticker`, `V5RC Part`, `VEX PRO Part`, `Pneumatic`, and `Standard Part`. 
 
-- SOIDWORKS Design Library 2020: [SW 2020-1.4.250731](https://pan.sjtu.edu.cn/web/share/8735759b3a87825e41e5209edbb5ecaf)
+- SOIDWORKS Design Library 2020: [SW 2020-1.5.260504](https://pan.sjtu.edu.cn/web/share/8735759b3a87825e41e5209edbb5ecaf)
 - SOIDWORKS Design Library 2019: [SW 2019-1.4.250731](https://pan.sjtu.edu.cn/web/share/280fe80080a0c7db37ce2b91d06d72f9)
 
 Libraries of field elements are also provided.
 
+- 2026 - 2027 Over Ride: [Over Ride-1.5.260504](https://pan.sjtu.edu.cn/web/share/25e270a06cdff6d9d2970d46a05b5757)
 - 2025 - 2026 Push Back: [Push Back-1.4.250731](https://pan.sjtu.edu.cn/web/share/01ef9e819d0688e6ae3d0ca7a04cd4bc)
 - 2024 - 2025 High Stakes: [High Stakes-1.4.250731](https://pan.sjtu.edu.cn/web/share/843aee1af3066c1a2b173588de05b7cb)
 - 2023 - 2024 Over Under: [Over Under-1.4.250731](https://pan.sjtu.edu.cn/web/share/0190472f3c72e346b74e94839e8d7130)
